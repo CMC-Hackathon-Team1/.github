@@ -4,4 +4,4 @@
     </a>  
 </div>
 
-![image](https://github.com/CMC-Hackathon-Team1/.github/profile/gate.png?raw=true)
+![image](https://github.com/CMC-Hackathon-Team1/.github/profile/main.png?raw=true)
