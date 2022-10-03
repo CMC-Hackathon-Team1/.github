@@ -1,5 +1,5 @@
 <div align=left> 
-    <a href="https://github.com/UNI-Team-Project">
+    <a href="https://github.com/CMC-Hackathon-Team1">
         <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github">
     </a>  
 </div>
